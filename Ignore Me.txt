@@ -1,0 +1,7 @@
+MD5:
+mcpx_1.0.bin		= d49c52a4102f6df7bcf8d0617ac475ed
+xbox-3944.bin		= e8b39b98cf775496c1c76e4f7756e6ed
+xbox-3944_256k.bin	= 542c62cb976a4993c8c5027dff9638ce
+xbox-4627_debug.bin	= e8dd61cc6abdbd06aac185e371312dc1
+
+https://github.com/espes/xqemu/wiki/Getting-Started#run-xqemu
